@@ -1,10 +1,10 @@
-## Hi there 👋, I'm Susdeck.
-Susdeck is an open-source alternative to the Stream Deck that replaces any device of yours with a personal macro pad!
+## Hi there 👋, I'm Freedeck.
+Susdeck (Being renamed to Freedeck) is an open-source alternative to the Stream Deck that replaces any device of yours with a personal macro pad!
 
 ## What does a Susdeck do?
 Susdeck presses keys on your keyboard like a Stream Deck. 
 
-Your computer will host a server on port 3000, and you'll need to go to {LocalIP}:3000 on any web browser/device to start using it.
+Your computer will host a server on port 5754 (configurable), and you'll need to go to {LocalIP}:5754 on any web browser/device to start using it.
 
 Companion **will** launch alongside the Susdeck server. 
 
