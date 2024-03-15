@@ -1,6 +1,15 @@
 ## Hi there 👋, I'm Freedeck.
 Freedeck is an open-source alternative to the Stream Deck that replaces any device of yours with a personal macro pad!
 
+## V6 update soon!
+
+Freedeck v6 is a full rewrite of the Freedeck system. It comes with many features that are great for usability:
+- an extensible plugin system
+- an extensible button editor
+- optimized JS bundles with Webpack
+- easily extendable settings menu
+- and so much more!
+
 ## What does a Freedeck do?
 Freedeck presses keys on your keyboard & plays sound like a Stream Deck. 
 
@@ -9,7 +18,7 @@ Companion **will** launch alongside the Freedeck Host.
 Companion is the desktop configuration tool. 
 
 ## It looks bad
-**Susdeck is best viewed in landscape mode.**
+**Freedeck is best viewed in landscape mode.**
 
 ## It looks bad on my device
 [IOS] Add it to your homescreen from the Share sheet.  
