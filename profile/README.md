@@ -1,17 +1,21 @@
 ## Hi there 👋, I'm Freedeck.
-Freedeck is an open-source alternative to the Stream Deck that replaces any device of yours with a personal macro pad!
+Freedeck is an open-source alternative to the Stream Deck that replaces any device of yours with a personalizable macro pad!
 
-## V6 update soon!
+[Check out our website! \(freedeck.app\)](https://freedeck.app)
+
+## Freedeck v6 is HERE!
 
 Freedeck v6 is a full rewrite of the Freedeck system. It comes with many features that are great for usability:
-- an extensible plugin system
-- an extensible button editor
+- an extensible plugin system & Marketplace 
+- an extensible button editor (Freedeck Studio)
 - optimized JS bundles with Webpack
-- easily extendable settings menu
+- easily extendable settings menu/api
 - and so much more!
 
+[Check it out!](https://github.com/Freedeck/Freedeck)
+
 ## What does a Freedeck do?
-Freedeck presses keys on your keyboard & plays sound like a Stream Deck. 
+Freedeck is only limited by your imagination.
 
 Your computer will host a server on port 5754 (configurable), and you'll need to go to {LocalIP}:5754 on any web browser/device to start using it.
 Companion **will** launch alongside the Freedeck Host. 
