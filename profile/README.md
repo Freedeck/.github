@@ -1,20 +1,11 @@
-## Hi there 👋, I'm Freedeck.
+# Hi there 👋, I'm Freedeck.
 Freedeck is an open-source alternative to the Stream Deck that replaces any device of yours with a personalizable macro pad!
 
 [Check out our website! \(freedeck.app\)](https://freedeck.app)
 
-## Freedeck v6 is HERE!
+[Check out the actual app](https://github.com/Freedeck/Freedeck)
 
-Freedeck v6 is a full rewrite of the Freedeck system. It comes with many features that are great for usability:
-- an extensible plugin system & Marketplace 
-- an extensible button editor (Freedeck Studio)
-- optimized JS bundles with Webpack
-- easily extendable settings menu/api
-- and so much more!
-
-[Check it out!](https://github.com/Freedeck/Freedeck)
-
-## What does a Freedeck do?
+## What does Freedeck do?
 Freedeck is only limited by your imagination.
 
 Your computer will host a server on port 5754 (configurable), and you'll need to go to {LocalIP}:5754 on any web browser/device to start using it.
