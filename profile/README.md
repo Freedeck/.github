@@ -22,6 +22,3 @@ Plugins built for Freedeck listed here expand the capabilities of the app.
 
 If you don't see a Plugin listed here, check the Marketplace in the app!  
 Or... [create your own!](https://github.com/Freedeck/plugins)
-
-## Wanna get involved?
-If you know what you're doing and find something or add something, do it and make a pull request!
